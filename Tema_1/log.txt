@@ -1,0 +1,140 @@
+Thu, 27 Feb 2020 17:20:22 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: https://api.thecatapi.com/v1/breeds
+ Latency: 203498
+Thu, 27 Feb 2020 17:20:24 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: http://127.0.0.1:5000/cats
+ Latency: 211558
+Thu, 27 Feb 2020 17:20:24 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: http://127.0.0.1:5000/random?n=66
+ Latency: 230823
+Thu, 27 Feb 2020 17:39:37 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: https://api.thecatapi.com/v1/breeds
+ Latency: 737050
+Thu, 27 Feb 2020 17:39:41 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: http://127.0.0.1:5000/cats
+ Latency: 757010
+Thu, 27 Feb 2020 17:39:41 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: http://127.0.0.1:5000/random?n=66
+ Latency: 771519
+Thu, 27 Feb 2020 17:39:44 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: https://api.thecatapi.com/v1/breeds
+ Latency: 732474
+Thu, 27 Feb 2020 17:39:45 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: http://127.0.0.1:5000/cats
+ Latency: 744054
+Thu, 27 Feb 2020 17:39:45 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: http://127.0.0.1:5000/random?n=66
+ Latency: 757379
+Thu, 27 Feb 2020 17:39:53 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: https://api.thecatapi.com/v1/breeds
+ Latency: 844070
+Thu, 27 Feb 2020 17:39:54 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: http://127.0.0.1:5000/cats
+ Latency: 850248
+Thu, 27 Feb 2020 17:39:54 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: http://127.0.0.1:5000/random?n=66
+ Latency: 858464
+Thu, 27 Feb 2020 17:40:09 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: https://api.thecatapi.com/v1/breeds
+ Latency: 711294
+Thu, 27 Feb 2020 17:40:14 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: http://127.0.0.1:5000/cats
+ Latency: 722356
+Thu, 27 Feb 2020 17:40:14 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: http://127.0.0.1:5000/random?n=66
+ Latency: 737201
+Thu, 27 Feb 2020 17:40:25 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: https://api.thecatapi.com/v1/breeds
+ Latency: 713962
+Thu, 27 Feb 2020 17:40:27 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: http://127.0.0.1:5000/cats
+ Latency: 725507
+Thu, 27 Feb 2020 17:40:27 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: http://127.0.0.1:5000/random?n=66
+ Latency: 741259
+Thu, 27 Feb 2020 17:40:37 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: https://api.thecatapi.com/v1/breeds
+ Latency: 745281
+Thu, 27 Feb 2020 17:40:41 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: http://127.0.0.1:5000/cats
+ Latency: 755207
+Thu, 27 Feb 2020 17:40:41 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: http://127.0.0.1:5000/random?n=66
+ Latency: 771235
+Thu, 27 Feb 2020 17:41:09 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: https://api.thecatapi.com/v1/breeds
+ Latency: 183165
+Thu, 27 Feb 2020 17:41:13 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: http://127.0.0.1:5000/cats
+ Latency: 194044
+Thu, 27 Feb 2020 17:41:13 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: http://127.0.0.1:5000/random?n=66
+ Latency: 206184
+Thu, 27 Feb 2020 17:41:39 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: https://api.thecatapi.com/v1/breeds
+ Latency: 239681
+Thu, 27 Feb 2020 17:45:54 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: https://api.thecatapi.com/v1/breeds
+ Latency: 650043
+Thu, 27 Feb 2020 17:45:57 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: http://127.0.0.1:5000/cats
+ Latency: 657121
+Thu, 27 Feb 2020 17:45:57 GMT
+ Status: 200
+ Request: [GET]
+ Content-Type: http://127.0.0.1:5000/random?n=66
+ Latency: 675152
