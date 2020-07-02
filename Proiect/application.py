@@ -111,7 +111,7 @@ def courses():
 def translate():
     data = request.json
     headers = {
-        'Ocp-Apim-Subscription-Key': 'afa0aa27aa644d62a85f1d31aa26ce4d',
+        'Ocp-Apim-Subscription-Key': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
         "Content-Type": "application/json"
     }
 
@@ -128,7 +128,7 @@ def translate():
 def check():
     data = request.json
     headers = {
-        'Ocp-Apim-Subscription-Key': '9a4557b9325546be922712b8d7cd63b1',
+        'Ocp-Apim-Subscription-Key': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
         "Content-Type": 'application/x-www-form-urlencoded'
     }
 
