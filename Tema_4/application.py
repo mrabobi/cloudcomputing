@@ -23,7 +23,7 @@ def chat():
 def translate():
     data = request.json
     headers = {
-        'Ocp-Apim-Subscription-Key': 'afa0aa27aa644d62a85f1d31aa26ce4d',
+        'Ocp-Apim-Subscription-Key': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
         "Content-Type": "application/json"
     }
 
@@ -39,7 +39,7 @@ def translate():
 def check():
     data = request.json
     headers = {
-        'Ocp-Apim-Subscription-Key': 'e7894c840ce349edb4a8586b329d7244',
+        'Ocp-Apim-Subscription-Key': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
         "Content-Type": 'application/x-www-form-urlencoded'
     }
 
